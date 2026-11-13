@@ -1,0 +1,12 @@
+{
+  "gate_replay_scenarios": 9,
+  "valid_sensor_patterns_checked": 216,
+  "model_sha256": "4f9b818ceb94f9eb6e68b7b226d516a7edef443941706401c00a75b544f68b83",
+  "seed": 7,
+  "population": 48,
+  "generations": 30,
+  "steps": 1100,
+  "warm_start": "models/warm_start.json",
+  "nonzero_parameters": 40,
+  "exported_gates": 250
+}

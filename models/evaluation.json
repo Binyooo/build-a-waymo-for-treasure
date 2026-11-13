@@ -1,0 +1,83 @@
+[
+  {
+    "track": "oval",
+    "start": 0,
+    "direction": 1,
+    "offset": 0,
+    "laps": 2.0018,
+    "crashed": false,
+    "steps": 1132
+  },
+  {
+    "track": "oval",
+    "start": 0.25,
+    "direction": 1,
+    "offset": 12,
+    "laps": 2.0012,
+    "crashed": false,
+    "steps": 1131
+  },
+  {
+    "track": "oval",
+    "start": 0.5,
+    "direction": -1,
+    "offset": -12,
+    "laps": 2.0012,
+    "crashed": false,
+    "steps": 1278
+  },
+  {
+    "track": "harbor",
+    "start": 0,
+    "direction": 1,
+    "offset": 0,
+    "laps": 2.0004,
+    "crashed": false,
+    "steps": 1170
+  },
+  {
+    "track": "harbor",
+    "start": 0.25,
+    "direction": 1,
+    "offset": 12,
+    "laps": 2.0015,
+    "crashed": false,
+    "steps": 1170
+  },
+  {
+    "track": "harbor",
+    "start": 0.5,
+    "direction": -1,
+    "offset": -12,
+    "laps": 2.0015,
+    "crashed": false,
+    "steps": 1291
+  },
+  {
+    "track": "technical",
+    "start": 0,
+    "direction": 1,
+    "offset": 0,
+    "laps": 2.0008,
+    "crashed": false,
+    "steps": 1173
+  },
+  {
+    "track": "technical",
+    "start": 0.25,
+    "direction": 1,
+    "offset": 12,
+    "laps": 2.0015,
+    "crashed": false,
+    "steps": 1175
+  },
+  {
+    "track": "technical",
+    "start": 0.5,
+    "direction": -1,
+    "offset": -12,
+    "laps": 2.0014,
+    "crashed": false,
+    "steps": 1296
+  }
+]
